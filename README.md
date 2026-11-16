@@ -34,25 +34,25 @@ Durante la práctica se genera un archivo JSON descargable que contiene los dato
 
 ## Objetivo del Laboratorio
 
-Implementar un entorno Serverless local mediante OpenFaaS para desarrollar, desplegar y ejecutar una función Python que permita registrar información mediante un formulario web, generar identificadores únicos y producir un archivo JSON descargable como resultado de la ejecución del servicio[cite: 2].
+Implementar un entorno Serverless local mediante OpenFaaS para desarrollar, desplegar y ejecutar una función Python que permita registrar información mediante un formulario web, generar identificadores únicos y producir un archivo JSON descargable como resultado de la ejecución del servicio.
 
 ---
 
 ## Competencia
 
-Implementa servicios Serverless en entornos cloud simulados mediante OpenFaaS, Docker y Kubernetes, desarrollando funciones en Python capaces de procesar solicitudes HTTP, gestionar información estructurada y generar archivos de salida, aplicando los fundamentos del modelo Functions as a Service (FaaS)[cite: 2].
+Implementa servicios Serverless en entornos cloud simulados mediante OpenFaaS, Docker y Kubernetes, desarrollando funciones en Python capaces de procesar solicitudes HTTP, gestionar información estructurada y generar archivos de salida, aplicando los fundamentos del modelo Functions as a Service (FaaS).
 
 ---
 
 ## Tecnologías y Herramientas Utilizadas
 
-- **Docker Desktop**: Infraestructura de contenedores y motor de ejecución[cite: 10].
-- **Kubernetes (Kubeadm)**: Orquestador local de contenedores[cite: 10, 11].
-- **OpenFaaS / OpenFaaS CLI**: Plataforma de Functions as a Service (FaaS) y herramienta de administración de funciones[cite: 9, 10].
-- **Helm**: Gestor de paquetes para la instalación de OpenFaaS en Kubernetes[cite: 10, 14].
-- **Python (Template `python3-http`)**: Lenguaje de programación para la función Serverless[cite: 2, 29].
-- **Visual Studio Code**: Entorno de desarrollo integrado[cite: 10, 28].
-- **PowerShell**: Terminal de comandos en Windows[cite: 2, 10].
+- **Docker Desktop**: Infraestructura de contenedores y motor de ejecución.
+- **Kubernetes (Kubeadm)**: Orquestador local de contenedores.
+- **OpenFaaS / OpenFaaS CLI**: Plataforma de Functions as a Service (FaaS) y herramienta de administración de funciones.
+- **Helm**: Gestor de paquetes para la instalación de OpenFaaS en Kubernetes.
+- **Python (Template `python3-http`)**: Lenguaje de programación para la función Serverless.
+- **Visual Studio Code**: Entorno de desarrollo integrado.
+- **PowerShell**: Terminal de comandos en Windows.
 
 ---
 
