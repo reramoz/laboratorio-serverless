@@ -1,0 +1,17 @@
+{
+    "nombre": "Roberto Ernesto",
+    "apellido": "Ramos Martinez",
+    "email": "reramoz@gmail.com",
+    "token": "f3dc6f49-835a-4986-bd75-b0ef29b5bf06",
+    "fecha_utc": "2026-11-16T05:14:05.327457+00:00",
+    "sistema_operativo": "Linux",
+    "version_so": "6.8.0-1070-azure",
+    "arquitectura": "x86_64",
+    "procesador": "",
+    "version_python": "3.12.16",
+    "hostname_contenedor": "registro-serverless-7475478c56-jbnjw",
+    "plataforma": "OpenFaaS",
+    "funcion": "registro-serverless",
+    "estado": "Ejecucion exitosa",
+    "firma_sha256": "a72f9c58eb6cedc168e54d32e94e1e97f48ba9edfc580b40781f68dbd9a81c17"
+}
